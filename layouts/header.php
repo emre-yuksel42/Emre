@@ -12,18 +12,14 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
           <li class="nav-item active">
-            <a class="nav-link" href="#">Acceuil <span class="sr-only">(current)</span></a>
+            <a class="nav-link" href="./">Acceuil</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="inscription.php">S'inscrire</a>
+            <a class="nav-link" href="register.php">S'inscrire</a>
           </li> 
           <li class="nav-item">
-            <a class="nav-link" href="#">Se connecter</a>
+            <a class="nav-link" href="login.php">Se connecter</a>
           </li> 
-          <li class="nav-item">
-            <a class="nav-link" href="#">Les évènements</a>
-          </li>
-
         </ul>
       </div>
     </nav>

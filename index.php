@@ -3,27 +3,12 @@ $title = 'Acceuil';
 $description = '' ;
  ?>
 
-
-    <?php include_once('layouts/header.php') ?>
-
-
+<?php include_once('layouts/header.php') ?>
     
-            //Mon contenu Principal
-            </div>
-          </div>
-          <div class="col-lg-4">
-            <aside class="sidebar">
-            //Mon sidebar
-            </aside>
-          </div>
-
-        </div>
-
-
-
-
-
-      </div>
+    <main>
+    	<div class="container">
+		      MON CONTENU
+		  </div>
     </main>
 
-    <?php include_once('layouts/footer.php') ?>
+<?php include_once('layouts/footer.php') ?>
