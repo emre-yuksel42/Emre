@@ -2,13 +2,18 @@ body  {
   background-color: lightblue;
 }
 #content {
-  min-height:calc(100vh - 180);
+  min-height: calc(100vh - 180px);
 }
-.main {
-  
-  padding: 15px;
+
+#footer { 
+	background-color: white;
+	min-height: 104px;
 }
-.sidebar {
-  background: red;
-  padding: 15px;
+
+#footer, p {
+	color: black;
+	align-items: center;
+	text-align: center;
+	padding-top: 2px;
 }
+

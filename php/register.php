@@ -1,4 +1,5 @@
 <?php
+session_start();
 
 //On récupere les champs
 if(isset($_POST)){
